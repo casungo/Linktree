@@ -12,9 +12,9 @@
 ## Description
 Wanted to make a good landing page in Bootstrap 5 and this is what came out :)
 
-<img src="/resources/iPhoneX.png" alt="iPhone X Screenshot" width="150px">
-
-<img src="/resources/1080pDesktop.png" alt="1080p Desktop">
+| iPhone X Screenshot                             | 1080p Desktop                                  |
+| ----------------------------------------------- | ---------------------------------------------- |
+| ![iPhone X Screenshot](/resources/iPhoneX.png)  | ![1080p Desktop](/resources/1080pDesktop.png)  |
 
 ## Authors and acknowledgment
 **[casungo](https://casungo.top)**: Mantainer of the repo
