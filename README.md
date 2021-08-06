@@ -3,18 +3,18 @@
 </h1>
 
 <p align="center">
-    <a href="https://choosealicense.com/no-permission/"><img alt="license"
+    <a href="https://choosealicense.com/licenses/mit/"><img alt="license"
             src="https://img.shields.io/github/license/casungo/Linktree" /></a>
-    <a href="https://casungo.top"><img alt="site link" src="https://img.shields.io/badge/site-casungo.top-red" /></a>
-    <a href="https://www.w3.org/html/"><img alt="author"
-            src="https://img.shields.io/badge/written_in-HTML-orange" /></a>
+    <a href="https://getbootstrap.com/"><img alt="author"
+            src="https://img.shields.io/badge/written_in-Bootstrap-orange" /></a>
+</p>
 
 ## Description
-This is my personal site, just a simple landing page to know a few things about me :)
+Wanted to make a good landing page in Bootstrap 5 and this is what came out :)
 
-![iPhone X Screenshot](https://raw.githubusercontent.com/casungo/Linktree/master/resources/iPhoneX.png)
+<img src="/resources/iPhoneX.png" alt="iPhone X Screenshot" width="150px">
 
-![1080p Screenshot](https://raw.githubusercontent.com/casungo/Linktree/master/resources/1080pDesktop.png)
+<img src="/resources/1080pDesktop.png" alt="1080p Desktop">
 
 ## Authors and acknowledgment
 **[casungo](https://casungo.top)**: Mantainer of the repo
